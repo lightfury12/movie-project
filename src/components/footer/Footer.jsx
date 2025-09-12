@@ -21,9 +21,9 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          <h1>  &#128522; <span> Powered by Arun Taak </span> &#128522; </h1><br/>
+          <h1> <span> Powered by Arun </span> </h1><br/>
           Made with ❤️ using React & Tailwind. Movix helps you explore movies, shows, and entertainment content with ease.
-        </div>
+        </div> 
         <div className="socialIcons">
           <a href="https://instagram.com/arun___taak">
             <span className="icon">
